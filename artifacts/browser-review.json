@@ -1,0 +1,184 @@
+[
+  {
+    "width": 390,
+    "errors": [],
+    "viewport": 390,
+    "scrollWidth": 390,
+    "height": 8637,
+    "missingAnchors": [],
+    "images": [
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=384&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-scene.webp&w=640&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-maker.webp&w=64&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark.png&w=384&q=75",
+        "loaded": true
+      }
+    ],
+    "overflow": [
+      {
+        "tag": "DIV",
+        "class": "closing-orbit orbit-a",
+        "left": -20,
+        "right": 410,
+        "parent": "closing-section section-pad"
+      },
+      {
+        "tag": "DIV",
+        "class": "closing-orbit orbit-b",
+        "left": -115,
+        "right": 505,
+        "parent": "closing-section section-pad"
+      }
+    ],
+    "titleFont": "manrope, \"manrope Fallback\", Arial, sans-serif",
+    "accessibility": []
+  },
+  {
+    "width": 768,
+    "errors": [],
+    "viewport": 768,
+    "scrollWidth": 768,
+    "height": 6841,
+    "missingAnchors": [],
+    "images": [
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=384&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-scene.webp&w=750&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-maker.webp&w=64&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark.png&w=384&q=75",
+        "loaded": true
+      }
+    ],
+    "overflow": [
+      {
+        "tag": "DIV",
+        "class": "closing-orbit orbit-b",
+        "left": -76,
+        "right": 844,
+        "parent": "closing-section section-pad"
+      }
+    ],
+    "titleFont": "manrope, \"manrope Fallback\", Arial, sans-serif",
+    "accessibility": []
+  },
+  {
+    "width": 1440,
+    "errors": [],
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "height": 6863,
+    "missingAnchors": [],
+    "images": [
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=384&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-scene.webp&w=1920&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark-light.png&w=32&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-maker.webp&w=64&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fcommerce-product.webp&w=256&q=75",
+        "loaded": true
+      },
+      {
+        "src": "http://127.0.0.1:3001/_next/image?url=%2Fimages%2Fpaytrada-mark.png&w=384&q=75",
+        "loaded": true
+      }
+    ],
+    "overflow": [],
+    "titleFont": "manrope, \"manrope Fallback\", Arial, sans-serif",
+    "accessibility": []
+  }
+]

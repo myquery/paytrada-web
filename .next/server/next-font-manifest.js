@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/oem/apps/paytrada/src/app/layout\":[\"static/media/65458149c0216615-s.p.ttf\",\"static/media/5d7fa19dd58d4d1a-s.p.ttf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
