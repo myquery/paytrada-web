@@ -13,7 +13,7 @@ const dmSans = localFont({
   src: "../../public/fonts/dm-sans-variable.ttf",
   variable: "--font-dm-sans",
   display: "swap",
-  weight: "400 700",
+  weight: "500 800",
 });
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://paytrada.app";
